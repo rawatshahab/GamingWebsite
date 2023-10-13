@@ -1,1 +1,1 @@
-Made this Website as my 1st year college project.
+Made this Website for my 1st year college project.
